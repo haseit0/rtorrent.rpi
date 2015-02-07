@@ -8,7 +8,7 @@ VERSION="1.0"
 # COMO USAR EL SCRIPT
     # Log in usando SSH en tu RPi.
     # Descargar este script:
-        # wget -O install.sh http://iqes.pl/upload/rtorrent_pi.sh
+        # wget -O install.sh
     # Edit any SETTINGS
         # nano rtorrent_pi.sh (Ctrl-o to save and Ctrl-x to exit).
     # Set execute permssions so the script can run:
@@ -28,7 +28,7 @@ do
 
 # GLOBAL
 SCRIPT_NAME='rpi_rtorrent_install.sh'
-AUTHOR='Haseito'
+AUTHOR='<blank>'
 LOGFILE="/tmp/rtorrent_install.log"    
 USER='pi'
 
