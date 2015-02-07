@@ -8,13 +8,13 @@ VERSION="1.0"
 # COMO USAR EL SCRIPT
     # Log in usando SSH en tu RPi.
     # Descargar este script:
-        # wget -O install.sh
+        # wget -O install.sh https://raw.githubusercontent.com/haseit0/rtorrent.rpi/master/rpi_rtorrent_install.sh
     # Edit any SETTINGS
-        # nano rtorrent_pi.sh (Ctrl-o to save and Ctrl-x to exit).
+        # nano install.sh (Ctrl-o to save and Ctrl-x to exit).
     # Set execute permssions so the script can run:
-        # chmod u+x rtorrent_pi.sh
+        # chmod u+x install.sh
     # Run this script:
-        # ./rtorrent_pi.sh
+        # ./install.sh
 
 
 # PREREQUISITES
